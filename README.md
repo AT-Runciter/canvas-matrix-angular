@@ -2,9 +2,12 @@
 
 *****
 
-This is an animation created using Canvas and rewritten for Angular.
-Click on the link to see it: https://canvas-matrix-angular.netlify.app/
-If you get tired of looking at the animation, you can click on the "Pause" button and continue watching the static picture :)
+This is an animation created using Canvas and rewritten for Angular.  
+
+Click on the link to see it: https://canvas-matrix-angular.netlify.app/  
+
+If you get tired of looking at the animation, you can click on the "Pause" button and continue watching the static picture :)  
+
 
 *****
 
